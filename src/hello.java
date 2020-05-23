@@ -28,3 +28,6 @@ public class hello {
 }
 
 System.out.println("Hello how are you");
+System.out.println("Hello how are you");
+System.out.println("Hello how are you");
+System.out.println("Hello how are you");
