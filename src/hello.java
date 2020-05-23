@@ -27,7 +27,7 @@ public class hello {
 
 }
 
-System.out.println("Hello how are you");
-System.out.println("Hello how are you");
-System.out.println("Hello how are you");
-System.out.println("Hello how are you");
+System.out.println("Hello how are you1");
+System.out.println("Hello how are you2");
+System.out.println("Hello how are you3");
+System.out.println("Hello how are you4");
